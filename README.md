@@ -137,7 +137,7 @@ Launch Visual Studio Code on your computer.
 <br>
 
 ## Test Result
-![code_sample](.\code.JPG)
+![code_sample](https://github.com/onisj/Bowling_Score_Calculator/raw/main/code.JPG)
 
 ## Troubleshooting
 
