@@ -137,7 +137,7 @@ Launch Visual Studio Code on your computer.
 <br>
 
 ## Test Result
-![code_sample](code.jpg)
+![code_sample](.\code.JPG)
 
 ## Troubleshooting
 
